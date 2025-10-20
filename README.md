@@ -1,0 +1,2 @@
+# gullac
+gullac yapragi tarifi
